@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/*.csv
+!data/.gitkeep
+*.joblib
+.DS_Store
